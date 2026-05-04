@@ -1,11 +1,27 @@
 # Python Calculator
 
-This is a simple calculator built using Python.
+A simple calculator built using Python.
 
-Features:
-- Addition, subtraction, multiplication, division
-- Power and modulus
+## 🚀 Features:
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Power (**)
+- Modulus (%)
 - Loop for continuous use
 - Error handling (division by zero)
 
-Created by: chariya
+## 💻 How to Run
+1. Install Python
+2. Run:
+   python calculator.py
+
+## 📸 Example
+Enter first number: 21
+Enter secong number: 15
+Choose (+, -, *, /, **, %): *
+Result: 100
+
+## 👨‍💻 Author
+Chiang Chariya
