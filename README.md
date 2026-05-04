@@ -9,7 +9,8 @@ A simple calculator built using Python.
 - Division (/)
 - Power (**)
 - Modulus (%)
-- Loop for continuous use
+- Loop for continuous use[calculator.py](https://github.com/user-attachments/files/27329070/calculator.py)
+
 - Error handling (division by zero)
 
 ## 💻 How to Run
@@ -24,7 +25,7 @@ Choose (+, -, *, /, **, %): *
 Result: 100
 
 ## 📸 Screenshot
-![Calculator](screenshot.png)
+![calculator.py](screenshot.png)
 
 ## 👨‍💻 Author
 Chiang Chariya
