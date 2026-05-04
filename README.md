@@ -23,5 +23,8 @@ Enter secong number: 15
 Choose (+, -, *, /, **, %): *
 Result: 100
 
+## 📸 Screenshot
+![Calculator](screenshot.png)
+
 ## 👨‍💻 Author
 Chiang Chariya
