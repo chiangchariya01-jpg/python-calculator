@@ -8,4 +8,4 @@ Features:
 - Loop for continuous use
 - Error handling (division by zero)
 
-Created by: Your Name
+Created by: chariya
